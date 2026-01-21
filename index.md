@@ -23,5 +23,4 @@ title: Test quiz
 
 ---
 
-👉 If the quiz does not load,  
-[open the quiz in a new tab](https://tudelft.h5p.com/content/1292368833014895047)
+**Mobile users:** for best experience, rotate your phone to landscape mode.
