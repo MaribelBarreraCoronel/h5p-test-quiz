@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Test quiz – Research Data Management
+title: Test quiz 
 ---
 
-# Test quiz – Research Data Management
+# Test quiz 
 
 ## Instructions
 - This is a **test self-check quiz**
